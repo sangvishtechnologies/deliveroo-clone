@@ -47,3 +47,12 @@ Ready to take the next step? For more information on our [Deliveroo Clone](https
 
 ## Conclusion
 The market is competitive and growing and with the appropriate technology at your disposal, this is the best chance you need to create a successful business out of it. The highly customizable but ready-made solution – our [Deliveroo Clone App](https://sangvish.com/deliveroo-clone/) prepares you for a future-focused food delivery service. Wasting time? Unlock the future of food delivery right now!
+
+**GET A LIVE FREE DEMO OF DELIVEROO CLONE APP HERE-> https://sangvish.com/deliveroo-clone/**
+
+**Contact Us,**
+
+Call: +91- 8300505021
+
+Mail ID- info@sangvish.com
+
