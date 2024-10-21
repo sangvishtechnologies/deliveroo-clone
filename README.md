@@ -3,6 +3,9 @@
 In the present generation food delivery is one of the most valued services that are in high demand. Deliveroo is what has changed the trend of ordering foods as the convenience and user experience they are subjected to come as a package. However, could one imagine having food delivery of their creation just like how Deliveroo does it, but specialized for business? 
 
 That’s where our flexible Deliveroo Clone app comes to the rescue — letting you unlock the future of food delivery as a mere click away.
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“deliverooclone.png" src="https://github.com/sangvishtechnologies/deliveroo-clone/blob/main/images/Deliveroo-clone.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
+
 ## What is a Deliveroo Clone?
 A [Deliveroo Clone](https://sangvish.com/deliveroo-clone/) is web software that is similar to the most pivotal features of the successful food delivery service, Deliveroo. It enables businesses and other entrepreneurs to create their to-go online food delivery service based on the functionality of Deliveroo, yet without the need to program the application and website on their own.
 
@@ -26,6 +29,9 @@ Creating a Deliveroo Clone with the user as the utmost priority is a primary foc
 
 ### 4. Scalability
 This means that as your food delivery business expands your platform also has potential for expansion. This is one of the key reasons for the development of our Deliveroo Clone – it is designed to grow with you and accommodate the growth of your business and your restaurant partners as you acquire new customers and expand the service area.
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“deliverooclone.png" src="https://github.com/sangvishtechnologies/deliveroo-clone/blob/main/images/Advantages-deliveroo-clone.jpg" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
+
 ## Advantages of Developing an App like Deliveroo
 ### 1. Cost-Effective
 It is challenging and costly to build a food delivery platform from the ground up. Deliveroo Clone from Speed Management Information ensures low development costs in addition to reduced time taken as you focus on growing your app’s business.
